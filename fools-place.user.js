@@ -62,8 +62,8 @@ if (window.top !== window.self) {
           GM_xmlhttpRequest({
               method: 'GET',
               responseType: 'blob',
-              url: `https://i.imgur.com/fHfQrGU.png`,
-              // url: `https://tomfooleryshow-4920bac08bd4.herokuapp.com/TomCanvas_Trace.png`,
+              // url: `https://i.imgur.com/fHfQrGU.png`,
+              url: `https://github.com/Aryan2000x/TomFooleryShow_place/blob/main/TomCanvas_Trace.png`,
               onload: function (response) {
                   let blob;
                   if (response.response instanceof Blob) {
