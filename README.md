@@ -21,7 +21,7 @@ Firefox setup:
 * Local development: run `python3 -m http.server` in this directory
 
 credit
-  '''
+```
   @destinygg
 
-  '''
+```
