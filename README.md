@@ -2,7 +2,7 @@
 
 Chrome setup:
 * Install the [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) or [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) addon
-* Visit [https://rplacecdn.destiny.gg/dgg-place.user.js](https://rplacecdn.destiny.gg/dgg-place.user.js) in a new tab
+* Visit [https://github.com/Aryan2000x/TomFooleryShow_place/raw/main/fools-place.user.js](https://github.com/Aryan2000x/TomFooleryShow_place/raw/main/fools-place.user.js) in a new tab
 * Click the install button
 * Visit /r/place and refresh the page to get the latest template
 
